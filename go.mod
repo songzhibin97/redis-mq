@@ -5,6 +5,7 @@ go 1.21.2
 require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/songzhibin97/gkit v1.2.12-0.20231020033117-92934100e7ba
+	github.com/songzhibin97/go-baseutils v0.0.1-pre.2
 )
 
 require (
